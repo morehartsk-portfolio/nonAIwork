@@ -1,0 +1,2 @@
+I spent this afternoon making a simple Python program that would return a list of words, given a formatted string and the text file from https://raw.githubusercontent.com/dwyl/english-words/refs/heads/master/words_alpha.txt.
+This was meant to help me find words for the game "Spelling Bee" (given a string of 7 unique letters, find all English words that have at least 4 letters, and they must contain a special letter).
